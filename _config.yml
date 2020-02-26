@@ -20,10 +20,20 @@
 
 title: Paul Shin
 email: paulshin42@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Bridging the generational and ideological gap one post at a time,
-  through the power of unrestrained sharing of ideas. Let us not forget or fear the
-  sporadic notions and convictions that pop up in our heads.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Bridging the generational and ideological gap one post at a time,
+#  through the power of unrestrained sharing of ideas. Let us not forget or fear the
+#  sporadic notions and convictions that pop up in our heads.
+
+
+locale: "en-us"
+description: "Hi there! Hope you enjoy your stay."
+url: "https://www.paulshin.me/"
+logo: /images/me.png
+
+skin: "/assets/css/skins/default.css"
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: paulshin0
